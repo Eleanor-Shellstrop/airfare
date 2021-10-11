@@ -24,11 +24,33 @@ I would like to explore how Q1 of 2020, with few cases and restrictions for most
 * How do 2020 and 2021 differ?
 * Do we see a difference in prices from all airports?
 
-**Average Fares Examined in this report:**
-1. Prices adjusted for inflation, 1995 - 2021
-2. All US Airports, from Q1 (January - March) reports, 2020 and 2021
-3. 100 Busiest US Airports, from Q1 (January - March) reports, 2020 and 2021
-4. Five Busiest US Airports, from Q1 (January - March) reports, 2020 and 2021
+## METHODOLOGY
+
+Data was retrieved and analyzed from the Bureau of Transportation Statics. 
+1. Prices adjusted for inflation, 1995 - 2021[^7]
+2. All US Airports, from Q1 (January - March) reports, 2020 and 2021[^8]
+
+## TO USE THIS REPO
+
+### Tools and Libraries
+
+This repo utilizes a number of tools and libraries that are all included with Anaconda. 
+[Anaconda documentation and install](https://docs.anaconda.com)
+Anaconda released an update on [September 24, 2020](https://docs.anaconda.com/anaconda/navigator/release-notes/). This repo runs on that latest release. 
+
+You can update by opening your terminal and enter:
+```
+conda update conda
+conda install anaconda=VersionNumber
+```
+[Click here](https://docs.anaconda.com/anaconda/install/update-version/) for notes on updating. 
+
+If you do not wish to install Anaconda, be sure your machine has the following:
+* [Python 3.0 or higher](https://www.python.org)
+* [Jupyter Notebook](https://jupyter.org)
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+* [NumPy](https://numpy.org/doc/)
+* [Matplotlib](https://matplotlib.org)
 
 
 [^1]: [Why Empty Planes Keep Flying Through the Pandemic, Wall Street Journal](https://www.wsj.com/articles/why-empty-planes-keep-flying-through-the-pandemic-11588771233).
@@ -37,3 +59,5 @@ I would like to explore how Q1 of 2020, with few cases and restrictions for most
 [^4]: [Executive Order N-33-20, CA.Gov](https://www.gov.ca.gov/wp-content/uploads/2020/03/3.19.20-attested-EO-N-33-20-COVID-19-HEALTH-ORDER.pdf)
 [^5]: [United States: How many tests are performed each day?, Our World in Data](https://ourworldindata.org/coronavirus/country/united-states#how-many-tests-are-performed-each-day)
 [^6]: [Trends in Number of COVID-19 Cases and Deaths in the US Reported to CDC, by State/Territory, CDC](https://covid.cdc.gov/covid-data-tracker/#trends_dailycases%7CNew_case%7Cselect)
+[^7]: [Annual U.S. Domestic Average Itinerary Fare in Current and Constant Dollars](https://www.bts.gov/content/annual-us-domestic-average-itinerary-fare-current-and-constant-dollars)
+[^8]: [Average Domestic Airline Itinerary Fares](https://www.transtats.bts.gov/AverageFare/)
