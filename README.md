@@ -52,6 +52,13 @@ If you do not wish to install Anaconda, be sure your machine has the following:
 * [NumPy](https://numpy.org/doc/)
 * [Matplotlib](https://matplotlib.org)
 
+### Running the Program
+1. Clone the repository
+2. Save the folder.
+3. Open `jupyter notebook` from command line or start menu.
+4. Navigate to the saved location of the repo.
+5. Open `airfare-data.ipynb
+6. Click `Cell` tab and then `Run All`.
 
 [^1]: [Why Empty Planes Keep Flying Through the Pandemic, Wall Street Journal](https://www.wsj.com/articles/why-empty-planes-keep-flying-through-the-pandemic-11588771233).
 [^2]: [First Travel-related Case of 2019 Novel Coronavirus Detected in United States, CDC](https://www.cdc.gov/media/releases/2020/p0121-novel-coronavirus-travel-case.html)
