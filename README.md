@@ -33,7 +33,7 @@ Data was retrieved and analyzed from the Bureau of Transportation Statistics.
 
 ### OPTION 1: Easy Method, Google Colab
 
-If you have a Google account, you can run this repo without downloading anything.
+If you have a Google account, you can run this repo without downloading any languages, libraries or tools.
 
 1. [Click here to gain viewer access to the Colab Notebook.](https://colab.research.google.com/drive/1JPENFr6RbdmWxLNaZtIp0CFmXIX91hW8?usp=sharing)
 2. Make a copy or download the notebook.
