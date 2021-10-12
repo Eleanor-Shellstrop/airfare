@@ -32,7 +32,19 @@ Data was retrieved and analyzed from the Bureau of Transportation Statics.
 
 ## TO USE THIS REPO
 
-### Tools and Libraries
+### OPTION 1: Easy Method, Google Colab
+
+If you have a Google account, you can run this repo without downloading anything.
+
+1. [Click here to gain viewer access to the Colab Notebook.](https://colab.research.google.com/drive/1JPENFr6RbdmWxLNaZtIp0CFmXIX91hW8?usp=sharing)
+2. Make a copy or download the notebook.
+3. In your copy or download, open the `airfare-data.ipynb` file:
+   * Click `Runtime` tab.
+   * Click `Run All`.
+
+### OPTION 2: Cloning the repo
+
+#### Tools and Libraries
 
 This repo utilizes a number of tools and libraries that are all included with Anaconda. 
 [Anaconda documentation and install](https://docs.anaconda.com)
@@ -50,16 +62,23 @@ If you do not wish to install Anaconda, be sure your machine has the following:
 * [Jupyter Notebook](https://jupyter.org)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 * [NumPy](https://numpy.org/doc/)
-* [Matplotlib](https://matplotlib.org)
+* [Matplotlib](https://matplotlib.org): Must be version 3.4 
 
-### Running the Program
-1. Clone the repository
+#### Running the Program in Jupyter Notebook
+1. Clone the repository.
 2. Save the folder.
 3. Open `jupyter notebook` from command line or start menu.
 4. Navigate to the saved location of the repo.
-5. Open `airfare-data.ipynb
+5. Open `airfare-data.ipynb`.
 6. Click `Cell` tab and then `Run All`.
 
+#### Running the Program in Python
+1. Clone the repository
+2. Save the folder.
+3. Open the saved repository in your IDE or terminal.
+4. Run the `airfare-data.py` file. 
+   
+Citations:
 [^1]: [Why Empty Planes Keep Flying Through the Pandemic, Wall Street Journal](https://www.wsj.com/articles/why-empty-planes-keep-flying-through-the-pandemic-11588771233).
 [^2]: [First Travel-related Case of 2019 Novel Coronavirus Detected in United States, CDC](https://www.cdc.gov/media/releases/2020/p0121-novel-coronavirus-travel-case.html)
 [^3]: [WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020](https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020)
