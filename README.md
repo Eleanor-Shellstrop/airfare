@@ -1,6 +1,5 @@
-# Airfare Rates in the US, 1995 - 2021
+# Airfare Rates in the US
 
-This project is in progress. 
 
 ## About
 
