@@ -1,9 +1,9 @@
 # Airfare Rates in the US
 
 
-## About
+## ABOUT
 
-This project is to compare airfare prices overall trends from 1995 to 2021, then focus on the differences between Q1 of 2020 and 2021. 
+This project is to compare airfare prices overall trends from 1995 to 2021, then focus on the differences between Q1 of 2020 and Q1 of 2021. 
 
 The COVID-19 pandemic had a profound effect on domestic travel in the U.S. The restrictions on travel guidelines and procedures left many airplanes flying empty of passengers.[^1] Consumers could plainly see that the price of airfare was falling.
 
