@@ -25,7 +25,7 @@ I would like to explore how Q1 of 2020, with few cases and restrictions for most
 
 ## METHODOLOGY
 
-Data was retrieved and analyzed from the Bureau of Transportation Statics. 
+Data was retrieved and analyzed from the Bureau of Transportation Statistics. 
 1. Prices adjusted for inflation, 1995 - 2021[^7]
 2. All US Airports, from Q1 (January - March) reports, 2020 and 2021[^8]
 
