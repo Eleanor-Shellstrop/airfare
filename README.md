@@ -41,6 +41,30 @@ If you have a Google account, you can run this repo without downloading any lang
    * Click `Runtime` tab.
    * Click `Run All`.
 
+**Common Errors with Colab**
+
+1. Runtime
+   
+Under `RESULTS` > `1. Import Libraries`, you may get this runtime error:
+
+![Runtime error message](./img/restart_runtime.png)
+
+To correct, on the toolbar menu, click `Runtime`, then scroll to `Restart runtime`. Once that has completed, click once more on the `Runtime` menu and scroll to `Run all`. 
+
+2. Authorization Code
+
+Under the bar graph for the Top 10 Airports 2020 and 2021 comparison, you may see this attempt from Google to import Google Drive. 
+
+![Auth error](./img/colab_import.png)
+
+Follow the instructions prompted. Click the link it provides, copy the authorization code and enter it into the field on the Colab file. 
+
+![Example auth code](./img/auth_code.png)
+
+You may be asked to sign into your Google account again during this step. 
+
+Once you paste your authorization code, tap the `Enter` key to continue. 
+
 ### OPTION 2: Cloning the repo
 
 #### Tools and Libraries
