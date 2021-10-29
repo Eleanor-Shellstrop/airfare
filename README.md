@@ -12,7 +12,7 @@ The Bureau of Transportation Statistics refers to the months of January 1 - Marc
 - The first U.S. citizen to test positive for COVID-19 occurred on January 21, 2020.[^2]
 - On March 11, 2020, the World Health Organization officially "declared COVID-19 a global pandemic."[^3] 
 - California became the first state to issue a "Shelter at Home" order on March 19, 2020.[^4] 
-- The first quarter of 2020, while not uneffected by the pandemic, was less effected than the remainder of the year.[^5]
+- The first quarter of 2020, while not unaffected by the pandemic, was less effected than the remainder of the year.[^5]
 - Q1 of 2021 had record-high new cases in January, and while declining by March 31, the new cases never fell to the highest recorded new cases in Q1 of 2020.[^6]
 
 I would like to explore how Q1 of 2020, with few cases and restrictions for most of the quarter, compares to Q1 of 2021, with several new cases and restrictions for the duration of the quarter. 
@@ -86,6 +86,15 @@ If you do not wish to install Anaconda, be sure your machine has the following:
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 * [NumPy](https://numpy.org/doc/)
 * [Matplotlib](https://matplotlib.org): Must be version 3.4 
+
+Pip install in project folder location or Virtual Environment:
+```
+pip install notebook
+pip install pandas
+pip install numpy
+python -m pip install -U pip
+python -m pip install -U matplotlib
+```
 
 #### Running the Program in Jupyter Notebook
 1. Clone the repository.
